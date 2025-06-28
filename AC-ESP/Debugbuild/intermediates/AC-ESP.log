@@ -1,0 +1,28 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Main.cpp
+C:\Users\lachl\Downloads\AC-ESP-weird-classnames-master\AC-ESP-weird-classnames-master\AC-ESP\src\ProccessPlayers.cpp(66,68): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  (compiling source file 'src/Main.cpp')
+  
+C:\Users\lachl\Downloads\AC-ESP-weird-classnames-master\AC-ESP-weird-classnames-master\AC-ESP\src\ProccessPlayers.cpp(66,68): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'src/Main.cpp')
+  
+C:\Users\lachl\Downloads\AC-ESP-weird-classnames-master\AC-ESP-weird-classnames-master\AC-ESP\src\Main.cpp(63,77): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\lachl\Downloads\AC-ESP-weird-classnames-master\AC-ESP-weird-classnames-master\AC-ESP\src\Main.cpp(63,44): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\lachl\Downloads\AC-ESP-weird-classnames-master\AC-ESP-weird-classnames-master\AC-ESP\src\Main.cpp(73,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lachl\Downloads\AC-ESP-weird-classnames-master\AC-ESP-weird-classnames-master\AC-ESP\src\Main.cpp(72,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\lachl\Downloads\AC-ESP-weird-classnames-master\AC-ESP-weird-classnames-master\AC-ESP\src\Main.cpp(198,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lachl\Downloads\AC-ESP-weird-classnames-master\AC-ESP-weird-classnames-master\AC-ESP\src\Main.cpp(198,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lachl\Downloads\AC-ESP-weird-classnames-master\AC-ESP-weird-classnames-master\AC-ESP\src\Main.cpp(199,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\lachl\Downloads\AC-ESP-weird-classnames-master\AC-ESP-weird-classnames-master\AC-ESP\src\Main.cpp(199,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ProccessPlayers.cpp
+C:\Users\lachl\Downloads\AC-ESP-weird-classnames-master\AC-ESP-weird-classnames-master\AC-ESP\src\ProccessPlayers.cpp(66,68): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\lachl\Downloads\AC-ESP-weird-classnames-master\AC-ESP-weird-classnames-master\AC-ESP\src\ProccessPlayers.cpp(66,68): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  readmem.cpp
+  Generating Code...
+  AC-ESP.vcxproj -> C:\Users\lachl\Downloads\AC-ESP-weird-classnames-master\AC-ESP-weird-classnames-master\build\AC-ESP.exe
